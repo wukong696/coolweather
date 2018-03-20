@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_margin="15dp">
-
+<!--没有显示“最高气温”字样的标题栏-->
     <TextView
         android:id="@+id/date_text"
         android:layout_width="0dp"
